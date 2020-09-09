@@ -1,0 +1,39 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "name": "chicken",
+      "procedure": "add ginger and chicken"
+    },
+    {
+      "id": 2,
+      "name": "Shahi Paneer",
+      "procedure": "Add paste and panner"
+    },
+    {
+      "id": 3,
+      "name": "Roast Fish",
+      "procedure": "Add Fish, paste"
+    },
+    {
+      "id": 4,
+      "name": "Shahi Paneer",
+      "procedure": "Add paste and panner"
+    },
+    {
+      "id": 5,
+      "name": "Roast Fish",
+      "procedure": "Add Fish, paste"
+    },
+    {
+      "id": 6,
+      "name": "Shahi Paneer",
+      "procedure": "Add paste and panner"
+    },
+    {
+      "id": 8,
+      "name": "kheer",
+      "procedure": "Sugar with Rice"
+    }
+  ]
+}
